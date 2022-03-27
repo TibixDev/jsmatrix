@@ -1,5 +1,5 @@
 # jsmatrix
-
+![jsmatrix Screenshot](https://i.imgur.com/XryAV45.png)
 A simple cmatrix-like terminal decoration written in JavaScript that supports window resizing.
 
 ## Getting Started
